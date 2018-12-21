@@ -4,7 +4,8 @@
 ## 講師
 青山学院大学 地球社会共生学部 教授
 古橋 大地（ふるはし たいち）
-* [Facebook](https://www.facebook.com/mapconcierge)
+* [個人Facebookページ](https://www.facebook.com/mapconcierge)
+* [研究室Facebookページ](https://www.facebook.com/furuhashilab/)
 * [古橋研究室ブログ](https://medium.com/furuhashilab)
 
 ## アジェンダ
@@ -31,8 +32,11 @@
 
 ## 当日の資料
 * [オープンストリートマップ(OpenStreetMap)](https://www.openstreetmap.org/)
+* [オープンストリートマップ(OpenStreetMap)のアカウント登録](https://www.openstreetmap.org/user/new)
 * [LearnOSM｜はじめてからのOpenStreetMapガイド](https://learnosm.org/ja/)
-* [印刷用地図](https://github.com/furuhashilab/yamato-town-planning/blob/master/yamato20191222_atlas-4fue97or.pdf)
+* [オープンストリートマップ(OpenStreetMap)のアカウント登録](https://www.openstreetmap.org/user/new)
+* [オンラインOSM図書館｜OSM Wiki](https://wiki.openstreetmap.org/wiki/JA:Main_Page)
+* [フィールドワーク用印刷用地図](https://github.com/furuhashilab/yamato-town-planning/blob/master/yamato20191222_atlas-4fue97or.pdf)
 
 ## おすすめスマートフォンアプリ
 * [maps.me(マップス・ミー)](https://maps.me/)
