@@ -2,5 +2,7 @@
 自由な地図づくりから始まる街づくり
 
 ## 当日の資料
+* [オープンストリートマップ(OpenStreetMap)](https://www.openstreetmap.org/)
+* [LearnOSM｜はじめてからのOpenStreetMapガイド](https://learnosm.org/ja/)
 * [印刷用地図](https://github.com/furuhashilab/yamato-town-planning/blob/master/yamato20191222_atlas-4fue97or.pdf)
 
