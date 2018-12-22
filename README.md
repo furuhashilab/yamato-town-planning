@@ -10,6 +10,9 @@
 
 ## アジェンダ
 ### １日目「オープンストリートマップ（ＯＳＭ）を知ろう」
+* プレゼン資料
+<a href="https://speakerdeck.com/mapconcierge/zi-you-nadi-tu-dukurikarashi-marujie-dukuri-da-he-shi-jie-dukurixue-xiao-2018-zhuan-xiu-kosu"><img src="https://user-images.githubusercontent.com/416977/50378816-56000a80-067e-11e9-9d37-7ffd850e5f9e.jpg" width="500"></a>
+
 #### ＯＳＭの概要説明 30min
 * 自由な地図は今までの地図と何が違うの？
 * 地図の著作権
@@ -42,7 +45,7 @@
 * [LearnOSM｜はじめてからのOpenStreetMapガイド](https://learnosm.org/ja/)
 * [オープンストリートマップ(OpenStreetMap)のアカウント登録](https://www.openstreetmap.org/user/new)
 * [オンラインOSM図書館｜OSM Wiki](https://wiki.openstreetmap.org/wiki/JA:Main_Page)
-* [フィールドペーパー]（http://fieldpapers.org/） 
+* [フィールドペーパー]（http://fieldpapers.org/）
 * [フィールドワーク用印刷用地図](https://github.com/furuhashilab/yamato-town-planning/blob/master/yamato20191222_atlas-4fue97or.pdf)
 
 ## おすすめスマートフォンアプリ
