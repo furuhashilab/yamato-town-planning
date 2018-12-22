@@ -11,6 +11,7 @@
 ## アジェンダ
 ### １日目「オープンストリートマップ（ＯＳＭ）を知ろう」
 * プレゼン資料
+
 <a href="https://speakerdeck.com/mapconcierge/zi-you-nadi-tu-dukurikarashi-marujie-dukuri-da-he-shi-jie-dukurixue-xiao-2018-zhuan-xiu-kosu"><img src="https://user-images.githubusercontent.com/416977/50378816-56000a80-067e-11e9-9d37-7ffd850e5f9e.jpg" width="500"></a>
 
 #### ＯＳＭの概要説明 30min
