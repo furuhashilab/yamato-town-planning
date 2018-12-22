@@ -25,7 +25,7 @@
 #### ＯＳＭの使い方説明 40min
 * パソコンからＯＳＭを見る
 * スマホからＯＳＭを見る
-* ＯＳＭを印刷する
+* [ＯＳＭを印刷する（フィールドペーパー）](http://fieldpapers.org/)
 * ＯＳＭの上に自分の地図を描く（マイマップ）
 
 ### 2日目「オープンストリートマップ（ＯＳＭ）を作ってみよう」
@@ -42,6 +42,7 @@
 * [LearnOSM｜はじめてからのOpenStreetMapガイド](https://learnosm.org/ja/)
 * [オープンストリートマップ(OpenStreetMap)のアカウント登録](https://www.openstreetmap.org/user/new)
 * [オンラインOSM図書館｜OSM Wiki](https://wiki.openstreetmap.org/wiki/JA:Main_Page)
+* [フィールドペーパー]（http://fieldpapers.org/） 
 * [フィールドワーク用印刷用地図](https://github.com/furuhashilab/yamato-town-planning/blob/master/yamato20191222_atlas-4fue97or.pdf)
 
 ## おすすめスマートフォンアプリ
