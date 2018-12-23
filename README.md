@@ -46,7 +46,7 @@
 * [LearnOSM｜はじめてからのOpenStreetMapガイド](https://learnosm.org/ja/)
 * [オープンストリートマップ(OpenStreetMap)のアカウント登録](https://www.openstreetmap.org/user/new)
 * [オンラインOSM図書館｜OSM Wiki](https://wiki.openstreetmap.org/wiki/JA:Main_Page)
-* [フィールドペーパー]（http://fieldpapers.org/）
+* <a href=http://fieldpapers.org/>フィールドペーパー</a>
 * [フィールドワーク用印刷用地図](https://github.com/furuhashilab/yamato-town-planning/blob/master/yamato20191222_atlas-4fue97or.pdf)
 
 ## おすすめスマートフォンアプリ
